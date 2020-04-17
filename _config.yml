@@ -3,7 +3,7 @@
 # Name of website
 title: Jekyll test2
 repository: tatosjb/jekyll
-
+github: [metadata]
 # Short description of your site
 description: A virtual proof that I'm awesome
 
